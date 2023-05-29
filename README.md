@@ -5,7 +5,7 @@
 - 📫 How to reach me ... Email me at nitro370z@outlook.com
 
 
-YEY - I'm making a game called GTR_Server. You should try it out for free. https://gtr-server.com
+YEY - I'm making a game called GTR_Server. You should try it out for free. https://gtr-server.tk
 
 <!---
 NitroBuilderGTR/NitroBuilderGTR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
