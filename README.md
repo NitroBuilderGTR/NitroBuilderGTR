@@ -22,6 +22,7 @@ The GCSE subjects that I took are: English Language, Maths, Human Biology, Socio
 - Memory / RAM: Corsair VENGANCE LPX Dual Channel 2x8GB DDR4 @ 3200MHz
 - PSU: Corsair 750W TX750M
 - Case: it seems to be unbranded but idk it is a nice one tho lol
+- Operating System(s) - Windows 11 is my main Operating System. I am currently Dual-Booting Linux though, (Ubuntu 22.04) and Windows 11.
 
 VR: Oculus Rift CV1 @ 90hz / 90FPS </br>
 Camera: Logitech Streamcam (1080p @ 60hz/60FPS) </br>
