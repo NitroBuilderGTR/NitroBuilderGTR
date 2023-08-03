@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NitroBuilderGTR
 - 👀 I’m interested in ... Coding, Gaming, and Talking lol
 - 🌱 I’m currently learning ... How to get better at coding - My main Programming Languages are: C#, HTML, CSS, JavaScript, and Node.JS
-- 💞️ I’m looking to collaborate on ... nothing.
+- 🔍 I’m looking to collaborate on ... nothing.
 - 📫 How to reach me ... Email me at nitro370z@outlook.com or message me on Discord (include the [NEO]- tag) @ [NEO]-NitroBuilderGTR#8759
 
 
