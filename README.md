@@ -5,7 +5,7 @@
 - 📫 How to reach me ... Email me at nitro370z@outlook.com or message me on Discord (include the [NEO]- tag) @ [NEO]-NitroBuilderGTR#8759
 
 
-YEY - I'm making a game called GTR_Server. You should try it out for free. https://gtr-server.tk
+YEY - I'm making a game called GTR_Server. You should try it out for free. https://gtr-server.com
 
 I am a Game Developer that uses Unreal Engine 4 and 5. I am also a Full-Stack Web Developer, who uses Node.JS, Express.JS, HTML, CSS, JavaScript and I am currently learning React.JS as well.
 I do also use C#, but only for Windows Applications.
