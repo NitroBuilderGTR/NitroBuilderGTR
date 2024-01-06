@@ -18,13 +18,13 @@ The GCSE subjects that I took are: English Language, Maths, Human Biology, Socio
 
 <ins>**PC Build / Setup?**<ins/>
 - CPU: AMD Ryzen 5 5600x @  4.6GHz
-- GPU: Nvidia Geforce RTX 2070 Super 8GB (insanely overclocked by myself to be a literal monster) - (Gigabyte WINDFORCE OC 3X 8GB - rev. 1.0/1.1)
+- GPU: Nvidia Geforce RTX 2070 Super 8GB (insanely overclocked by myself to be a literal monster) - (Gigabyte GeForce RTX 2070 Super WINDFORCE OC 3X 8GB - rev. 1.0/1.1)
 - Memory / RAM: Corsair VENGANCE LPX Dual Channel 2x8GB DDR4 @ 3200MHz
 - PSU: Corsair 750W TX750M
 - Case: it seems to be unbranded but idk it is a nice one tho lol
 - Operating System(s) - Windows 11 is my main Operating System. I am currently Dual-Booting Linux though, (Ubuntu 22.04) and Windows 11.
 
-VR: Oculus Rift CV1 @ 90hz / 90FPS </br>
+VR: Oculus Rift CV1 @ 90hz / 90FPS (with 2 Sensors) </br>
 Camera: Logitech Streamcam (1080p @ 60hz/60FPS) </br>
 Microphone: Blue Snowball
   <p>&nbsp;</p>
