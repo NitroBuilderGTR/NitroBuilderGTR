@@ -7,8 +7,9 @@
 
 YEY - I'm making a game called GTR_Server. You should try it out for free. https://gtr-server.com
 
-I am a Game Developer that uses Unreal Engine 4 and 5. I am also a Full-Stack Web Developer, who uses Node.JS, Express.JS, HTML, CSS, JavaScript and I am currently learning React.JS as well.
-I do also use C#, but only for Windows Applications.
+I am a Game Developer that uses Unreal Engine 4 and 5.
+I am also a Full-Stack Web Developer, who uses Node.JS, Express.JS, HTML, CSS, JavaScript and I am currently learning React.JS as well.
+I do also use C#, but only for Windows Applications. I am also using Electron.JS for application development.
 
 I started coding at the age of 10, and I haven't stopped since. I am now 17 and am now studying in college.
 
