@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @NitroBuilderGTR
 - 👀 I’m interested in ... Coding, Gaming, and Talking lol
-- 🌱 I’m currently learning ... How to get better at coding - My main Programming Languages are: C#, HTML, CSS, JavaScript, React.JS, and Node.JS
+- 🌱 I’m currently learning ... How to get better at coding - My main Programming Languages are: C#, HTML, CSS, JavaScript, React.JS, Electron.JS, and Node.JS
 - 🔍 I’m looking to collaborate on ... nothing.
-- 📫 How to reach me ... Email me at nitro370z@outlook.com or message me on Discord (include the [NEO]- tag) @ [NEO]-NitroBuilderGTR#8759
+- 📫 How to reach me ... Email me at nitro370z@outlook.com or message me on Discord - N1troBuilderGTR
 
 
 YEY - I'm making a game called GTR_Server. You should try it out for free. https://gtr-server.com
